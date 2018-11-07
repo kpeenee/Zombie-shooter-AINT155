@@ -50,3 +50,6 @@ TagManager:
   - name: Bullet
     uniqueID: 2734180289
     locked: 0
+  - name: FX
+    uniqueID: 2979802069
+    locked: 0
